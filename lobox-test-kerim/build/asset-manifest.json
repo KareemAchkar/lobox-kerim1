@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Customized-Form/static/css/main.16aba72f.css",
+    "main.js": "/Customized-Form/static/js/main.83283a65.js",
+    "static/js/453.3262aa75.chunk.js": "/Customized-Form/static/js/453.3262aa75.chunk.js",
+    "static/media/Antu_arrow-up.svg.png": "/Customized-Form/static/media/Antu_arrow-up.svg.13a3d7fc94f46eabeb0b.png",
+    "index.html": "/Customized-Form/index.html",
+    "main.16aba72f.css.map": "/Customized-Form/static/css/main.16aba72f.css.map",
+    "main.83283a65.js.map": "/Customized-Form/static/js/main.83283a65.js.map",
+    "453.3262aa75.chunk.js.map": "/Customized-Form/static/js/453.3262aa75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16aba72f.css",
+    "static/js/main.83283a65.js"
+  ]
+}
